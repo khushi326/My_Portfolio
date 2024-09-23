@@ -28,11 +28,9 @@ const skills = {
   programmingLanguages: {
     main: { name: 'Programming Languages', icon: faCode, color: '#3372FF' },
     items: [
-      { name: 'JavaScript ES6', icon: faJs, color: '#F7DF1E' },
-      { name: 'TypeScript', icon: faJs, color: '#007ACC' },
+      { name: 'JavaScript', icon: faJs, color: '#F7DF1E' },
       { name: 'HTML', icon: faHtml5, color: '#E34F26' },
       { name: 'CSS', icon: faCss3Alt, color: '#1572B6' },
-      { name: 'PL/SQL', icon: faDatabase, color: '#D33682' },
       { name: 'Python', icon: faPython, color: '#306998' },
       { name: 'Java', icon: faJava, color: '#FF9F33' },
     ],
@@ -41,11 +39,9 @@ const skills = {
     main: { name: 'Front-End Development', icon: faDesktop, color: '#FF9F33' },
     items: [
       { name: 'React', icon: faReact, color: '#61DAFB' },
-      { name: 'Angular', icon: faAngular, color: '#DD0031' },
-      { name: 'Redux', icon: faJs, color: '#764ABC' },
       { name: 'AG Grids', icon: faJs, color: '#FF6F61' },
       { name: 'Material UI', icon: faJs, color: '#0081CB' },
-      { name: 'Tailwind', icon: faJs, color: '#38B2AC' },
+
     ],
   },
   backEndDevelopment: {
@@ -55,50 +51,15 @@ const skills = {
       color: '#339933',
     },
     items: [
-      { name: 'Node.js', icon: faNodeJs, color: '#339933' },
-      { name: 'Nest.js', icon: faNodeJs, color: '#E0234E' },
-      { name: 'ExpressJs', icon: faJs, color: '#000000' },
-      { name: 'REST APIs', icon: faReact, color: '#00A8E8' },
-      { name: 'GraphQL', icon: faJs, color: '#E10098' },
-    ],
-  },
-  testing: {
-    main: { name: 'Testing', icon: faTools, color: '#F08080' },
-    items: [
-      { name: 'Jest', icon: faJs, color: '#C21325' },
-      { name: 'Cypress', icon: faJs, color: '#17202A' },
-      { name: 'Enzyme', icon: faJs, color: '#00A8E8' },
+      { name: 'Java', icon: faJava, color: '#339933' },
+      { name: 'Python', icon: faPython, color: '#E0234E' },
     ],
   },
   databases: {
     main: { name: 'Databases', icon: faDatabase, color: '#F05032' },
     items: [
-      { name: 'MongoDB', icon: faReact, color: '#4DB33D' },
-      { name: 'Oracle', icon: faReact, color: '#F80000' },
       { name: 'MySQL', icon: faReact, color: '#4479A1' },
-      { name: 'Relational Databases', icon: faReact, color: '#4479A1' },
-    ],
-  },
-  cloudAndDevOps: {
-    main: { name: 'Cloud & DevOps', icon: faCloud, color: '#4479A1' },
-    items: [
-      { name: 'Azure Data Factory', icon: faCube, color: '#0078D4' },
-      { name: 'Azure Data Lake Gen2', icon: faCube, color: '#0078D4' },
-      { name: 'Azure Data Bricks', icon: faCube, color: '#E23337' },
-      { name: 'Azure Synapse Analytics', icon: faCube, color: '#0078D4' },
-    ],
-  },
-  dataAndBusinessIntelligence: {
-    main: {
-      name: 'Data & Business Intelligence',
-      icon: faChartLine,
-      color: '#F7DF1E',
-    },
-    items: [
-      { name: 'Power BI', icon: faJs, color: '#F2C811' },
-      { name: 'Tableau', icon: faJs, color: '#E97627' },
-      { name: 'Pentaho', icon: faJs, color: '#0078D4' },
-    ],
+       ],
   },
   versionControlAndCollaboration: {
     main: {
@@ -108,8 +69,7 @@ const skills = {
     },
     items: [
       { name: 'Git', icon: faGit, color: '#F05032' },
-      { name: 'Bit Bucket', icon: faJs, color: '#0052CC' },
-      { name: 'JIRA', icon: faJs, color: '#0052CC' },
+      { name: 'Bit Bash', icon: faJs, color: '#0052CC' },
     ],
   },
 }

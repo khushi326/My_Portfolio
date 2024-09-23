@@ -31,9 +31,6 @@ const Navbar = () => {
             <a href="#education" className="px-4 py-2 md:py-0">
               Education
             </a>
-            <a href="#experience" className="px-4 py-2 md:py-0">
-              Experience
-            </a>
             <a href="#certifications" className="px-4 py-2 md:py-0">
               Certifications
             </a>
@@ -41,7 +38,7 @@ const Navbar = () => {
               Projects
             </a>
             <a href="#achievements" className="px-4 py-2 md:py-0">
-              Achievements
+              Videos
             </a>
           </div>
         </div>

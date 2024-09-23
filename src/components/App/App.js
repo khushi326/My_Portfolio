@@ -5,7 +5,6 @@ import Skills from '../Skills/Skills'
 import Projects from '../Projects/Projects'
 import Achievements from '../Achivements/Achievements'
 import Education from '../Education/Education'
-import Experience from '../Experience/Experience'
 import Certifications from '../Cerifications/Certifications'
 import './App.css'
 
@@ -16,7 +15,6 @@ function App() {
       <Home />
       <Skills />
       <Education />
-      <Experience />
       <Certifications />
       <Projects />
       <Achievements />
