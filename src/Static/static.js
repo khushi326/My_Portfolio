@@ -1,8 +1,3 @@
-import untLogo from "../assets/unt.png";
-import cognizantLogo from "../assets/cognizantLogo.png";
-import archimazaLogo from "../assets/ArchimazeLogo.jpeg";
-import vinxLogo from "../assets/vinxLogo.jpeg";
-
 export const userName = 'Khushi Yadav';
 export const userRoles = 'Front Developer';
 export const userDescription = `I am a BCA graduate who loves technology and mysteries, and has potential in solving them. From various academia, I have reached a level where I can comfortably code in Java, Python, do some web development and database management.`;

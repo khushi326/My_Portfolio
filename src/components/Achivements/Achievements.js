@@ -2,11 +2,6 @@ import React from 'react'
 import { Carousel } from 'react-responsive-carousel'
 import 'react-responsive-carousel/lib/styles/carousel.min.css'
 // Import images
-import volleyballImg from '../../assets/volleyball.jpg'
-import hackathonImg from '../../assets/hackathon1.png'
-import secretaryImg from '../../assets/volleyball.jpg'
-import chessImg from '../../assets/chess.png'
-
 const achievements = [
   {
     certificateURL:
