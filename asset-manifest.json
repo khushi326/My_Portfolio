@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/khushi326/My_Portfolio.git/static/css/main.3c4a3679.css",
-    "main.js": "/khushi326/My_Portfolio.git/static/js/main.98a64c30.js",
-    "static/media/developer.jpg": "/khushi326/My_Portfolio.git/static/media/developer.93c7d8b269cdada9ba46.jpg",
-    "static/media/background.jpg": "/khushi326/My_Portfolio.git/static/media/background.376633e5265401e82ee0.jpg",
-    "static/media/github-square.png": "/khushi326/My_Portfolio.git/static/media/github-square.ff2648078e819f6a9666.png",
-    "index.html": "/khushi326/My_Portfolio.git/index.html",
-    "main.3c4a3679.css.map": "/khushi326/My_Portfolio.git/static/css/main.3c4a3679.css.map",
-    "main.98a64c30.js.map": "/khushi326/My_Portfolio.git/static/js/main.98a64c30.js.map"
+    "main.css": "/My_Portfolio.git/static/css/main.3c4a3679.css",
+    "main.js": "/My_Portfolio.git/static/js/main.b63806f2.js",
+    "static/media/developer.jpg": "/My_Portfolio.git/static/media/developer.93c7d8b269cdada9ba46.jpg",
+    "static/media/background.jpg": "/My_Portfolio.git/static/media/background.376633e5265401e82ee0.jpg",
+    "static/media/github-square.png": "/My_Portfolio.git/static/media/github-square.ff2648078e819f6a9666.png",
+    "index.html": "/My_Portfolio.git/index.html",
+    "main.3c4a3679.css.map": "/My_Portfolio.git/static/css/main.3c4a3679.css.map",
+    "main.b63806f2.js.map": "/My_Portfolio.git/static/js/main.b63806f2.js.map"
   },
   "entrypoints": [
     "static/css/main.3c4a3679.css",
-    "static/js/main.98a64c30.js"
+    "static/js/main.b63806f2.js"
   ]
 }
